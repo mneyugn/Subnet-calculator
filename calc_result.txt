@@ -1,0 +1,16 @@
+Argument: 192.168.56.1/255.255.255.0
+IP is public
+Mask decimal: 255.255.255.0
+Mask binary: 11111111.11111111.11111111.00000000
+IP binary:11000000.10101000.00111000.00000001
+ IP decimal:192.168.56.1 
+Network binary:11000000.10101000.00111000.00000000 Network decimal: 192.168.56.0
+Network class: C
+
+Broadcast binary: 11000000.10101000.00111000.11111111
+Broadcast decimal: 192.168.56.255
+First host binary: 11000000.10101000.00111000.00000001
+First host decimal:192.168.56.1
+Last host binary:['11000000', '10101000', '00111000', '11111110']
+Last host decimal: 192.168.56.254
+Max hosts: 254
